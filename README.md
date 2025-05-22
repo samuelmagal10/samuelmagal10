@@ -60,7 +60,6 @@ Estoy profundizando en:
 ### 📫 ¡Hablemos!
 
 - ✉️ Correo: [samuelmagal10@gmail.com](mailto:samuelmagal10@gmail.com)
-- 🌐 [Mi Portafolio Personal](#) *(github.com/samuelmagal10)*
 
 ---
 
